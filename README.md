@@ -12,3 +12,7 @@ In this project, I designed and implemented an electronic air-hockey game on an 
 - <b>Vivado</b>
 - <b>FPGA board</b>
 
+
+
+https://github.com/maryambaig105/FPGA-based-air-hockey-game/assets/154369139/c38498e8-0193-4df3-b5a9-d71006d170f0
+
